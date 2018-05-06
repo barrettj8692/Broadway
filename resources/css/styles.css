@@ -1,0 +1,30 @@
+body {
+  background-color: black;
+  text-align: center;
+  color: white;
+  font-family: Verdana;
+  font-weight: normal;
+}
+h1 {
+  font-size: 50px;
+  font-weight: normal;
+}
+h2 {
+  font-weight: 300px;
+  font-size: 42px;
+}
+p{
+  font-size: 21px;
+  color: grey;
+}
+a {
+  color: Aquamarine;
+  font-size: 16px;
+}
+.video{
+  object-fit: contain;
+}
+.footer{
+  text-align: right;
+  color: grey;
+}
