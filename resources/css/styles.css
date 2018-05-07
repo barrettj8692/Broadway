@@ -6,9 +6,6 @@ body {
   /* font */
   color: white;
   text-align: center;
-
-
-
   background-image: url('../images/the-flatiron-building.png');
   /* Full height */
    height: 100%;
@@ -32,9 +29,6 @@ h1.hero {
 h2.hero {
   font-size: 23px;
 }
-.supporting {
-  text-align: center;
-}
 h2.supporting {
   font-size: 32px;
 }
@@ -52,4 +46,7 @@ h1, h2, h3 {
   background-color: dimgrey;
   font-size: 11px;
   color: white;
+}
+.supporting {
+  text-align: center;
 }
